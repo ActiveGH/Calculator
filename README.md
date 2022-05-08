@@ -2,7 +2,7 @@
 Basic calculator made completely in Python
 
 # How to use
-Epxonent list:
+Exponent list:
 "^" Power, 
 "*" Multiply, 
 "/" Devision, 
